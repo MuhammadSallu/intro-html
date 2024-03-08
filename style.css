@@ -1,0 +1,44 @@
+html {
+    color: white;
+}
+body {
+    background-color: midnightblue;
+    margin-bottom: 0%;
+    margin-left: 0%;
+    display: inline;
+    grid-row: 50% 50%;
+    grid-column: 50% 50%;
+    grid-template-columns: auto;
+}
+img {
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+    border-style: dotted;
+    border-color: crimson; 
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    
+    
+}
+a {
+    font-size: x-large;
+    color: lightblue;
+    padding-left: 10px;
+    padding-top: 40px;
+    padding-bottom: 30px;
+    padding-right: 20px;
+}
+ol {
+    color:coral;
+}
+ul {
+    color: crimson;
+}
